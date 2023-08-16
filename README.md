@@ -1,3 +1,7 @@
+# Repository references
+- Udemy course reference - https://www.udemy.com/course/react-testing-library-and-jest/
+- Initial Test project - https://codesandbox.io/s/rtl-starter-forked-6zrvxr?file=/src/App.test.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
